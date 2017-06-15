@@ -10,8 +10,8 @@
     "watch": "chokidar '**/*.elm' -c 'npm run compile'"
   },
   "dependencies": {
-    "react": "16.0.0-alpha.6",
-    "react-native": "0.43.4"
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.45.1"
   },
   "jest": {
     "preset": "jest-react-native"
